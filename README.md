@@ -16,10 +16,10 @@
 **참고 자료**
 
 
-* [1](https://sunshower76.github.io/cv(computervision)/2019/08/26/Digital-Image-Processing-Digital-image-fundamentals_4-(chapter-2)/)[https://sunshower76.github.io/cv(computervision)/2019/08/26/Digital-Image-Processing-Digital-image-fundamentals_4-(chapter-2)/]
+* [1] [https://sunshower76.github.io/cv(computervision)/2019/08/26/Digital-Image-Processing-Digital-image-fundamentals_4-(chapter-2)/](https://sunshower76.github.io/cv(computervision)/2019/08/26/Digital-Image-Processing-Digital-image-fundamentals_4-(chapter-2)/)
 
-* [2](https://nauco.tistory.com/5)[https://nauco.tistory.com/5]
+* [2] [https://nauco.tistory.com/5](https://nauco.tistory.com/5)
 
-* [3](https://webnautes.tistory.com/1043)[https://webnautes.tistory.com/1043]
+* [3] [https://webnautes.tistory.com/1043](https://webnautes.tistory.com/1043)
 
-* [4](https://www.smoh.kr/269)[https://www.smoh.kr/269]
+* [4] [Visual Studio Github 연동](https://www.smoh.kr/269)
