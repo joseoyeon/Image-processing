@@ -1,4 +1,5 @@
-'''c
+```c
+
 #include <iostream>
 #include <opencv2/opencv.hpp>
 #include <opencv2/highgui/highgui.hpp>
@@ -134,7 +135,7 @@ int main() {
 	waitKey();
 	return 0;
 }
-'''
+```
 
 * input 이미지
 
