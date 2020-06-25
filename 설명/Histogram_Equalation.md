@@ -24,24 +24,6 @@ void sumhist(int histogram[], int sumhistogram[]){
     }
 }
 
-void matchHistogram(int srcHist[256], int refHist[256], int map[256]) {
-    double cumSrc[256], cumRef[256];
-    cumSrc[0] = srcHist[0];
-    cumRef[0] = refHist[0];
-    for (int i = 1; i < 256; i++) {
-        cumSrc[0] = cumSrc[i - 1] + srcHist[i];
-        cumRef[0] = cumRef[i - 1] + refHist[i];
-    }
-    for (int i = 0; i < 256; i ++ ) {
-        cumSrc[i] /= cumSrc[255];
-        cumRef[i] /= cumRef[255];
-    }
-    for (int i = 0; i < 256; i++) {
-        int k = 255;
-        while (cumRef[k] > cumSrc[i]) k--;
-        map[i] = k < 0 ? 0 : k;
-    }
-}
 int main(){
     Mat image = imread("project02\\Phobos1.png", IMREAD_GRAYSCALE);
     Mat target_image = imread("project02\\Phobos2.png", IMREAD_GRAYSCALE);
