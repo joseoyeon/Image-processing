@@ -84,9 +84,11 @@ int main(){
 }
 ```
 * input 이미지
-<br/>
+
+
 ![image](https://user-images.githubusercontent.com/46625602/85664371-20b1fe00-b6f5-11ea-8bae-0d34f2c06229.png)
 
 * output 이미지
-<br/>
+
+
 ![image](https://user-images.githubusercontent.com/46625602/85664376-23145800-b6f5-11ea-93aa-d6037e3f7fd9.png)
