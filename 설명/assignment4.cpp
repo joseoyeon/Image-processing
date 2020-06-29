@@ -8,12 +8,12 @@ using namespace std;
 int main()
 {
     const int mask[3][3] = {
-        {1,1,1},
-        {1,1,1},
-        {1,1,1}
+        {1,2,1},
+        {2,4,2},
+        {1,2,1}
     };
 
-    const float fMaskTotalCoef = 1.f / 9.f;
+    const float fMaskTotalCoef = 1.f / 16.f;
 
 
 
